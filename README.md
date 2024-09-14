@@ -1,16 +1,7 @@
 # Chat Application MERN-Stack Web Application.
-
-<p align="center">
-  <b style="color: blue;  ">Visitor count</b>
-  <br>
-  <a style="" href="https://github.com/adityaghode92">
-  <img src="https://profile-counter.glitch.me/chat-app/count.svg" />
-  </a>
-</p>
-
 ---
 
-![Screenshot](https://firebasestorage.googleapis.com/v0/b/chat-app-bd581.appspot.com/o/chat-app.png?alt=media&token=a12f25c9-24f6-42ab-9cc3-cffd3d239ba5)
+![Screenshot](https://firebasestorage.googleapis.com/v0/b/chat-app-bd581.appspot.com/o/Screenshot%20(391).png?alt=media&token=29f0c54e-fae8-4073-8ac7-09cf02a46c71)
 
 ---
 
