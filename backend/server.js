@@ -7,7 +7,7 @@ const mongoose = require("mongoose");
 const app = express();
 
 app.use(cors({
-	origin: "",  // specify the allowed origin(s)
+	origin: "https://chat-app-frontend-ashen-five.vercel.app",  // specify the allowed origin(s)
 	methods: ['GET', 'POST', 'PUT', 'DELETE'],  // allowed HTTP methods
 	credentials: true  // allow credentials (cookies, authorization headers, etc.)
   }));
