@@ -1,7 +1,7 @@
 # Chat Application MERN-Stack Web Application.
 ---
 
-![Screenshot](https://firebasestorage.googleapis.com/v0/b/chat-app-bd581.appspot.com/o/Screenshot%20(391).png?alt=media&token=29f0c54e-fae8-4073-8ac7-09cf02a46c71)
+![Screenshot](https://firebasestorage.googleapis.com/v0/b/chat-app-bd581.appspot.com/o/Screenshot%20(391).png?alt=media&token=272bf43a-d10b-4b95-bb8e-bfc80da94603)
 
 ---
 
@@ -64,7 +64,7 @@ Follow these steps to set up and run the project locally:
     Frontend Folder :
 
     ```bash
-    VITE_BACKEND_URL=http://localhost:9000
+    VITE_BACKEND_URL=https://chat-app-backend-two-rho.vercel.app/
     ```
 
     Backend Folder :
