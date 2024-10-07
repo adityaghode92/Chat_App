@@ -1,6 +1,6 @@
 import { io } from "socket.io-client";
 const ENDPOINT = `${import.meta.env.VITE_BACKEND_URL}`;
-const socket = io(ENDPOINT, {
+const socket = io("https://chat-app-backend-ala4.onrender.com", {
 	reconnectionDelay: 1000,
 	reconnection: true,
 	reconnectionAttempts: 10,

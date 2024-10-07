@@ -64,13 +64,13 @@ Follow these steps to set up and run the project locally:
     Frontend Folder :
 
     ```bash
-    VITE_BACKEND_URL=https://chat-app-backend-two-rho.vercel.app/
+    VITE_BACKEND_URL=https://chat-app-backend-ala4.onrender.com
     ```
 
     Backend Folder :
 
     ```bash
-    FRONTEND_URL=http://localhost:5173
+    FRONTEND_URL=https://chat-app-frontend-ashen-five.vercel.app
     MONGODB_URI=mongodb://127.0.0.1:27017/chat-app
     PORT=9000
     JWT_SECRET=secret-kvndkvdlkajkhkJkBiu6JJNjkbhkvnskcmhLJ5dKbkjsamnv
