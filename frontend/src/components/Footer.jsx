@@ -13,7 +13,6 @@ const Footer = () => {
 				<div className="flex flex-col min-w-[280px] w-[33%] my-3">
 					<h1 className="font-semibold mb-2">Contact</h1>
 					<span>Aditya Ghode</span>
-					{/* <span>pune</span> */}
 					<span>
 						<Link
 							to={"mailto:adityaghode02@gmail.com"}
