@@ -6,14 +6,15 @@ const mongoose = require("mongoose");
 
 const app = express();
 
-app.use(cors({
-	origin: "https://chat-app-frontend-ashen-five.vercel.app",  // specify the allowed origin(s)
-	methods: ['GET', 'POST', 'PUT', 'DELETE'],  // allowed HTTP methods
-	credentials: true  // allow credentials (cookies, authorization headers, etc.)
-  }));
+// app.use(cors({
+// 	origin: "https://chat-app-frontend-ashen-five.vercel.app",  // specify the allowed origin(s)
+	
+// 	methods: ['GET', 'POST', 'PUT', 'DELETE'],  // allowed HTTP methods
+// 	credentials: true  // allow credentials (cookies, authorization headers, etc.)
+//   }));
 
 const corsOptions = {
-	origin: process.env.FRONTEND_URL,
+	origin: "https://chat-app-frontend-ashen-five.vercel.app",
 	methods: ["GET", "POST", "DELETE"],
 	allowedHeaders: ["Content-Type", "Authorization"],
 	credentials: true,
